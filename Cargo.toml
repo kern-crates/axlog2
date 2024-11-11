@@ -1,0 +1,9 @@
+[workspace]
+resolver = "2"
+members = [
+    "axlog2",
+    "rt_axlog2",
+]
+
+[profile.release]
+lto = true

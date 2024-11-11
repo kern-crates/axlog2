@@ -1,0 +1,11 @@
+{
+  "name": "axlog2",
+  "description": "Log for lkmodel.",
+  "authors": [{
+    "name": "Shi Lei",
+    "email": "shi_lei@massclouds.com"
+  }],
+  "keywords": ["log"],
+  "repo": "shilei-massclouds/axlog2",
+  "doc_url": "https://github.com/shilei-massclouds/axlog2/blob/main/README.md"
+}
